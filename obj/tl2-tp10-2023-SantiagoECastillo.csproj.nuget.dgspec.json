@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj": {}
+    "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj": {
+    "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
+        "projectUniqueName": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
         "projectName": "tl2-tp10-2023-SantiagoECastillo",
-        "projectPath": "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
+        "projectPath": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
         "packagesPath": "C:\\Users\\santiago\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\obj\\",
+        "outputPath": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"

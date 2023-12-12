@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using tl2_tp10_2023_SantiagoECastillo.Models;
-using TODO.Models;
-using TODO.Repositorio;
+using tl2_tp10_2023_SantiagoECastillo.Repositorio;
+
 
 namespace tl2_tp10_2023_SantiagoECastillo.Controllers;
 

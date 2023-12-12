@@ -1,9 +1,9 @@
 using System.Data.SqlClient;
 using System.Data.SQLite;
 
-using TODO.Models;
+using tl2_tp10_2023_SantiagoECastillo.Models;
 
-namespace TODO.Repositorio{
+namespace tl2_tp10_2023_SantiagoECastillo.Repositorio{
     public class UsuarioRepositorio : IUsuarioRepositorio{
         private string cadenaConexion = "Data Source=DB/kanban.db;Cache=Shared";
         
