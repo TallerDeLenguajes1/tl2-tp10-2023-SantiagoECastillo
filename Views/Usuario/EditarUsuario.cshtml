@@ -1,0 +1,10 @@
+@model Views_Usuario_EditarUsuario
+
+<form asp-controller="Usuario" asp-action="EditarUsuario">
+    <div class="form-group">
+        <label asp-for="@Model.NombreUsuario"></label>
+        <input asp-for="@Model.NombreUsuario" class="form-control">
+    </div>
+
+    <button type="button" class="btn btn-primary">Enviar</button>
+</form>

@@ -1,0 +1,22 @@
+@Model List<Usuarios>
+
+<h2>Usuarios</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var usuario in Model){
+            <tr>
+                <td>@usuario.NombreUsuario</td>
+                <td>
+                    <a asp-controller="Usuario" asp-action="EditarUsuario" asp-route-idUsuario="@usuario.IdUsuario">Editar</a>
+                    <a asp-controller="Usuario" asp-action="EliminarUsuario" asp-route-idUsuario="@usuario.IdUsuario" onclick="return confirm('Estas seguro que quieres eliminar al usuario @usuario.NombreUsuario ?')">Eliminar</a>
+                </td> 
+            </tr>
+        }
+    </tbody>
+</table>
