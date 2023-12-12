@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj": {}
+    "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj": {
+    "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
+        "projectUniqueName": "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
         "projectName": "tl2-tp10-2023-SantiagoECastillo",
-        "projectPath": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
+        "projectPath": "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
         "packagesPath": "C:\\Users\\santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\obj\\",
+        "outputPath": "c:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.118, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
