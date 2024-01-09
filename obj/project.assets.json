@@ -1215,19 +1215,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\santiago\\.nuget\\packages\\": {}
+    "C:\\Users\\castigo santillo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
+      "projectUniqueName": "D:\\Facultdad\\3_año-2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
       "projectName": "tl2-tp10-2023-SantiagoECastillo",
-      "projectPath": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
-      "packagesPath": "C:\\Users\\santiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santiago\\Desktop\\Facultad\\3 año - 2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\obj\\",
+      "projectPath": "D:\\Facultdad\\3_año-2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\tl2-tp10-2023-SantiagoECastillo.csproj",
+      "packagesPath": "C:\\Users\\castigo santillo\\.nuget\\packages\\",
+      "outputPath": "D:\\Facultdad\\3_año-2\\Taller_de_lenguajes_2\\tl2-tp10-2023-SantiagoECastillo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\castigo santillo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

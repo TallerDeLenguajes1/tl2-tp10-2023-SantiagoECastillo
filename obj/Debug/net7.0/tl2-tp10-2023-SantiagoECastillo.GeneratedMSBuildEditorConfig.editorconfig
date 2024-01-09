@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tl2_tp10_2023_SantiagoECastillo
 build_property.RootNamespace = tl2_tp10_2023_SantiagoECastillo
-build_property.ProjectDir = c:\Users\santiago\Desktop\Facultad\3 año - 2\Taller_de_lenguajes_2\tl2-tp10-2023-SantiagoECastillo\
+build_property.ProjectDir = D:\Facultdad\3_año-2\Taller_de_lenguajes_2\tl2-tp10-2023-SantiagoECastillo\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\santiago\Desktop\Facultad\3 año - 2\Taller_de_lenguajes_2\tl2-tp10-2023-SantiagoECastillo
+build_property.MSBuildProjectDirectory = D:\Facultdad\3_año-2\Taller_de_lenguajes_2\tl2-tp10-2023-SantiagoECastillo
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Home/Index.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Home/Privacy.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Shared/Error.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Usuario/CrearUsuario.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Usuario/CrearUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Usuario/EditarUsuario.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Usuario/EditarUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0YXJVc3VhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Usuario/GetUsuarios.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Usuario/GetUsuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xHZXRVc3Vhcmlvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/_ViewImports.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/_ViewStart.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/santiago/Desktop/Facultad/3 año - 2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Shared/_Layout.cshtml]
+[D:/Facultdad/3_año-2/Taller_de_lenguajes_2/tl2-tp10-2023-SantiagoECastillo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-90d88jq35k
