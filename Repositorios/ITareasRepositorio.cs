@@ -1,4 +1,4 @@
-using TODO.Models;
+using tl2_tp10_2023_SantiagoECastillo.Models;
 public interface ITareaRepositorio{
     public Tarea CrearTarea(int idTablero, Tarea tarea);
     public void ModificarTarea(int idTarea, Tarea tarea);

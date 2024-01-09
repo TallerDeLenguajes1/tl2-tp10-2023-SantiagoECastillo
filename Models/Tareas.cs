@@ -1,4 +1,4 @@
-namespace TODO.Models{
+namespace tl2_tp10_2023_SantiagoECastillo.Models{
     public class Tarea{
         private int idTarea;
         private int idTablero;

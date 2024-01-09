@@ -1,4 +1,4 @@
-using TODO.Models;
+using tl2_tp10_2023_SantiagoECastillo.Models;
 public interface ITableroRepositorio{
     public Tablero CrearTablero(Tablero NuevoTablero);
     public void ModificarTablero(int id, Tablero tablero);
