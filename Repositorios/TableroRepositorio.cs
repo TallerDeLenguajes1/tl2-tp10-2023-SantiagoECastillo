@@ -25,10 +25,11 @@ namespace tl2_tp10_2023_SantiagoECastillo.Repositorio{
         }
 
         public void ModificarTablero(int id, Tablero tablero){
+            Console.WriteLine(id);
             SQLiteConnection connection = new SQLiteConnection(cadenaConexion);
             SQLiteCommand command = connection.CreateCommand();
             
-            command.CommandText = $"UPDATE Tablero SET nombre = '{tablero.Nombre}', descripcion = '{tablero.Descripcion}'  WHERE id = '{tablero.IdTablero}' AND id_usuario_propietario ='{id}';";
+            command.CommandText = $"UPDATE Tablero SET nombre = '{tablero.Nombre}', descripcion = '{tablero.Descripcion}'  WHERE id = '{tablero.IdTablero}';";
             connection.Open();
             command.ExecuteNonQuery();
             connection.Close();
