@@ -11,12 +11,11 @@ namespace tl2_tp10_2023_SantiagoECastillo.Repositorio{
 
             var query = $"INSERT INTO Usuario (nombre_de_usuario) VALUES (@nombre_de_usuario)";
             using(SQLiteConnection connection = new SQLiteConnection(cadenaConexion)){
-                
-                connection.Open();
                 var comando = new SQLiteCommand(query, connection);
 
                 comando.Parameters.Add(new SQLiteParameter("@nombre_de_usuario", nuevoUsuario.NombreUsuario));
-
+                
+                connection.Open();
                 comando.ExecuteNonQuery();
                 connection.Close();
             }
@@ -51,8 +50,8 @@ namespace tl2_tp10_2023_SantiagoECastillo.Repositorio{
                     }
                 }
                 connection.Close();
-                return usuarios;
             }
+            return usuarios;
         }
 
         public Usuario ObtenerUsuarioPorId(int idUsuario){
@@ -72,7 +71,7 @@ namespace tl2_tp10_2023_SantiagoECastillo.Repositorio{
                 }
             }
             connection.Close();
-            return (usuario);
+            return usuario;
         }
 
         public void EliminarUsuarios(int idUsuario){

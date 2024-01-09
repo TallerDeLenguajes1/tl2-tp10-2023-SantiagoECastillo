@@ -2,7 +2,6 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using tl2_tp10_2023_SantiagoECastillo.Models;
 using tl2_tp10_2023_SantiagoECastillo.Repositorio;
-using TODO.Repositorio;
 
 
 namespace tl2_tp10_2023_SantiagoECastillo.Controllers;
@@ -18,9 +17,10 @@ public class TableroController : Controller{
         tableroRepositorio = new TableroRepositorio();
     }
 
+/*
     [HttpGet]
     public IActionResult GetTableros(){
         
     }
-    
+   */ 
 }

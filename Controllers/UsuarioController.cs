@@ -6,7 +6,7 @@ using tl2_tp10_2023_SantiagoECastillo.Repositorio;
 
 namespace tl2_tp10_2023_SantiagoECastillo.Controllers;
 
-public class UsuarioController : Controller{
+public class UsuarioController : Controller {
 
     private IUsuarioRepositorio usuarioRepositorio;
 
@@ -23,6 +23,7 @@ public class UsuarioController : Controller{
         var usuarios = usuarioRepositorio.ObtenerTodosUsuarios();
         return View(usuarios);
     }
+
     [HttpGet]
     public IActionResult CrearUsuario(){
         return View(new Usuario());
@@ -48,7 +49,7 @@ public class UsuarioController : Controller{
         return RedirectToAction("GetUsuarios");
     }
 
-    [HttpDelete]
+    //[HttpDelete]
     public IActionResult EliminarUsuario(int idUsuario){
         usuarioRepositorio.EliminarUsuarios(idUsuario);
         return RedirectToAction("GetUsuarios");

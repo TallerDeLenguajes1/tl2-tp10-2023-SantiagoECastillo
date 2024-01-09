@@ -17,7 +17,9 @@ public class LoginController : Controller{
         usuarioRepositorio = new UsuarioRepositorio();
     }
 
+/*
     public IActionResult Index(){
-        return View(new )
+        return View(new)
     }
+    */
 }
